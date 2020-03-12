@@ -1,22 +1,77 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
-<path id="XMLID_11_" d="M124,172.3c-33.9,0-43.2-18.9-45.8-28.8H17.1c-3.3,0-6-2.7-6-6c0-3.3,2.7-6,6-6h72l0.1,5.9
-	c0.1,2.3,1.8,23,34.8,23c12.5,0,21.8-3,27.4-8.8c6-6.2,5.9-13.8,5.9-13.9l-0.2-6.2h74.8c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6h-63.3
-	c-0.9,4.5-3.2,10.8-8.6,16.4C152,168.1,139.9,172.3,124,172.3z"/>
-<g id="XMLID_13_">
-	<g id="XMLID_15_">
-		<g id="XMLID_17_">
-			<path id="XMLID_10_" d="M125.5,132.5c-1.2,0-2.1-0.9-2.1-2.1v-19.8c0-1.2,0.9-2.1,2.1-2.1c1.2,0,2.1,0.9,2.1,2.1v19.8
-				C127.6,131.6,126.6,132.5,125.5,132.5z"/>
-			<g id="XMLID_18_">
-				<polygon id="XMLID_7_" points="100.1,127.1 150.8,127.1 125.5,152.4 				"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="compression.svg"
+   xml:space="preserve"
+   style="enable-background:new 0 0 250 250;"
+   viewBox="0 0 250 250"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata120"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs118" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="23"
+   inkscape:window-x="0"
+   inkscape:cy="125"
+   inkscape:cx="125"
+   inkscape:zoom="2.356"
+   showgrid="false"
+   id="namedview116"
+   inkscape:window-height="797"
+   inkscape:window-width="1440"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   inkscape:document-rotation="0"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<path
+   d="M124,172.3c-33.9,0-43.2-18.9-45.8-28.8H17.1c-3.3,0-6-2.7-6-6c0-3.3,2.7-6,6-6h72l0.1,5.9  c0.1,2.3,1.8,23,34.8,23c12.5,0,21.8-3,27.4-8.8c6-6.2,5.9-13.8,5.9-13.9l-0.2-6.2h74.8c3.3,0,6,2.7,6,6c0,3.3-2.7,6-6,6h-63.3  c-0.9,4.5-3.2,10.8-8.6,16.4C152,168.1,139.9,172.3,124,172.3z"
+   id="XMLID_11_" />
+<g
+   id="XMLID_13_">
+	<g
+   id="XMLID_15_">
+		<g
+   id="XMLID_17_">
+			<path
+   d="M125.5,132.5c-1.2,0-2.1-0.9-2.1-2.1v-19.8c0-1.2,0.9-2.1,2.1-2.1c1.2,0,2.1,0.9,2.1,2.1v19.8     C127.6,131.6,126.6,132.5,125.5,132.5z"
+   id="XMLID_10_" />
+			<g
+   id="XMLID_18_">
+				<polygon
+   points="100.1,127.1 150.8,127.1 125.5,152.4     "
+   id="XMLID_7_" />
 			</g>
 		</g>
-		<rect id="XMLID_2_" x="119.5" y="77.7" width="11.9" height="53.3"/>
+		<rect
+   height="53.3"
+   width="11.9"
+   y="77.7"
+   x="119.5"
+   id="XMLID_2_" />
 	</g>
-	<path id="XMLID_1_" d="M148.8,79.9h-48.7C99,79.9,98,79,98,77.8s0.9-2.1,2.1-2.1h48.7c1.2,0,2.1,0.9,2.1,2.1S150,79.9,148.8,79.9z"
-		/>
+	<path
+   d="M148.8,79.9h-48.7C99,79.9,98,79,98,77.8s0.9-2.1,2.1-2.1h48.7c1.2,0,2.1,0.9,2.1,2.1S150,79.9,148.8,79.9z"
+   id="XMLID_1_" />
 </g>
-</svg>
+<path
+   inkscape:connector-curvature="0"
+   id="path122"
+   d="m 116.51104,171.78426 c -0.58362,-0.10039 -2.49022,-0.39396 -4.23689,-0.65237 -16.383276,-2.4239 -28.150916,-11.34918 -32.954099,-24.99437 l -0.97115,-2.75891 -31.885494,-0.21223 -31.885493,-0.21222 -1.42714,-1.55745 c -1.849783,-2.01869 -2.246772,-4.04434 -1.203886,-6.14288 0.432607,-0.87051 1.325754,-1.97708 1.984771,-2.45904 1.186033,-0.86738 1.573216,-0.87743 38.094227,-0.98928 l 36.896016,-0.11299 v 3.16935 c 0,4.26705 0.63345,7.06651 2.437869,10.77386 4.658001,9.57031 16.350749,14.92803 32.579109,14.92803 17.46399,0 28.70259,-5.86955 32.49855,-16.97293 0.76108,-2.22619 0.93507,-3.63995 0.90106,-7.32173 l -0.0422,-4.56282 h 37.79872 c 34.42939,0 37.93187,0.0632 39.29243,0.70882 3.91433,1.85747 4.1579,7.63915 0.41788,9.91957 -1.31615,0.8025 -2.37931,0.82879 -33.82914,0.83651 l -32.47029,0.008 -1.15395,3.70754 c -1.4961,4.80682 -3.65304,8.43564 -7.33501,12.34037 -5.7984,6.14919 -12.95691,9.79039 -23.13243,11.7664 -3.4414,0.66829 -17.83719,1.22706 -20.37351,0.7908 z"
+   style="fill:#ff0000;stroke-width:0.424448" /></svg>
