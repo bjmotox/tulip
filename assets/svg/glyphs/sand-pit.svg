@@ -1,10 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 250 250" style="enable-background:new 0 0 250 250;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:6;stroke-linecap:round;stroke-miterlimit:10;}
-</style>
-<path id="XMLID_2_" class="st0" d="M232,78.3H89.8c0,0-71.8-5.2-71.8,40.8s71.8,41.2,71.8,41.2H232"/>
-<line id="XMLID_1_" class="st0" x1="166" y1="50.1" x2="95.6" y2="200.9"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="sand-pit.svg"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   xml:space="preserve"
+   style="enable-background:new 0 0 250 250;"
+   viewBox="0 0 250 250"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+     id="metadata4205"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4203" /><sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:window-maximized="0"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:current-layer="Layer_1"
+     inkscape:cy="135.15471"
+     inkscape:cx="78.923837"
+     inkscape:zoom="2.4090986"
+     showgrid="false"
+     id="namedview4201"
+     inkscape:window-height="797"
+     inkscape:window-width="1440"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" /><style
+     id="style4196"
+     type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;}
+</style><g
+     id="g5045"><path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4163"
+       sodipodi:type="arc"
+       sodipodi:cx="167.48537"
+       sodipodi:cy="127.03252"
+       sodipodi:rx="149.7153"
+       sodipodi:ry="44.959618"
+       sodipodi:start="1.1683711"
+       sodipodi:end="5.1079798"
+       d="M 226.12151,168.40048 A 149.7153,44.959618 0 0 1 49.213154,154.59868 149.7153,44.959618 0 0 1 48.588555,99.709736 149.7153,44.959618 0 0 1 225.17867,85.545173"
+       sodipodi:open="true" /><path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 224.66471,168.64328 C 223.72187,85.787971 223.72187,85.787971 223.72187,85.787971"
+       id="path4480"
+       inkscape:connector-curvature="0" /></g><path
+     inkscape:connector-curvature="0"
+     id="path5047"
+     d="m 152.60285,170.1101 c -24.30037,-1.04097 -40.65381,-2.64677 -59.150757,-5.8082 -33.119156,-5.66061 -56.96567,-14.66975 -67.902003,-25.65317 -4.498117,-4.51749 -5.779418,-7.10901 -5.770564,-11.67135 0.0086,-4.43093 1.329045,-7.13275 5.597311,-11.4529 7.783525,-7.87813 22.200084,-14.72622 42.754121,-20.308874 30.162331,-8.192352 73.113442,-12.463018 112.698212,-11.205681 15.34674,0.487461 32.78931,1.690374 39.68733,2.737004 l 1.49878,0.227408 0.26825,24.982643 c 0.14755,13.74045 0.38618,31.73306 0.53029,39.98358 l 0.26203,15.00094 -1.61397,0.25416 c -3.26489,0.51414 -14.31944,1.5192 -23.40635,2.12806 -8.79578,0.58935 -38.18323,1.09779 -45.45268,0.78638 z"
+     style="fill:#ffb380;stroke:#ffb380;stroke-width:1.24528;stroke-miterlimit:4;stroke-dasharray:none" /><line
+     style="font-size:142.20900000000000318px;font-family:'Arial Black', 'Arial Bold', Gadget, sans-serif;fill:#ff0000;stroke:#ff0000;stroke-width:6.12277;stroke-linecap:round;stroke-miterlimit:10"
+     id="XMLID_1_"
+     class="st0"
+     x1="159.72231"
+     y1="55.317276"
+     x2="115.89948"
+     y2="199.54985" /></svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 180 200"
+   xml:space="preserve"
+   inkscape:version="1.0beta2 (2b71d25, 2019-12-03)"
+   sodipodi:docname="follow-main-track.svg"
+   width="180"
+   height="200"><metadata
+     id="metadata15"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs13" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="794"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="3.5333333"
+     inkscape:cx="109.98073"
+     inkscape:cy="112.39727"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0" /><style
+     type="text/css"
+     id="style3">
+	.st0{font-family:&quot;Arial Black&quot;, &quot;Arial Bold&quot;, Gadget, sans-serif;}
+	.st1{font-size:118.4014px;}
+	
+		.st2{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:18.9859;stroke-linecap:round;stroke-miterlimit:10;}
+</style><flowRoot
+     transform="matrix(0.68802366,0,0,0.57211533,52.511011,43.553616)"
+     xml:space="preserve"
+     id="flowRoot3336"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:0.01%;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       id="flowRegion3338"><rect
+         id="rect3340"
+         width="142.58875"
+         height="86.720642"
+         x="17.510899"
+         y="69.919037" /></flowRegion><flowPara
+       id="flowPara3342"
+       style="font-size:40px;line-height:1.25"> </flowPara></flowRoot><path
+     inkscape:connector-curvature="0"
+     id="path3356"
+     style="font-size:126.849px;font-family:'Arial Black', 'Arial Bold', Gadget, sans-serif;stroke-width:0.627398"
+     d="M 62.209801,70.269043 H 81.661493 L 89.168019,110.6643 96.641907,70.269043 H 116.02832 V 136.65857 H 103.95261 V 86.028631 L 94.585772,136.65857 H 83.652354 L 74.318152,86.028631 V 136.65857 H 62.209801 Z" /><path
+     d="m 125.8162,69.622648 h 27.23737 q 8.89827,0 13.31123,5.375814 4.44914,5.375813 4.44914,15.300391 0,10.200257 -4.84703,15.943647 -4.81085,5.74339 -14.72192,5.74339 h -8.97062 v 24.99523 H 125.8162 Z M 142.27437,98.3396 h 4.01508 q 4.7385,0 6.65561,-2.06762 1.9171,-2.113568 1.9171,-5.375813 0,-3.170352 -1.6639,-5.375814 -1.6639,-2.205462 -6.25772,-2.205462 h -4.66617 z"
+     id="path4207"
+     inkscape:connector-curvature="0"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:140.707px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.616142px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><path
+     d="M 17.264151,71.018864 H 55.509433 V 84.884087 H 32.801298 V 96.152336 H 52.197115 V 109.18124 H 32.801298 v 26.36594 H 17.264151 Z"
+     style="font-size:144.049px;font-family:'Arial Black', 'Arial Bold', Gadget, sans-serif;stroke-width:0.566871"
+     id="path3434"
+     inkscape:connector-curvature="0" /></svg>
